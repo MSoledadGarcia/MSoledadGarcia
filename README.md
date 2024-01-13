@@ -3,7 +3,6 @@
 #  Hola 👋 !! Mi nombre es Soledad  
   
 
-### <div align="center">Data Analitycs & BI Consultant | Python | R | SQL | Power BI</div>  
   
 
 ## Quién soy?  
