@@ -8,9 +8,9 @@
 ## Quién soy?  
   
 
-Soy mamá, odontóloga y estudiante de Lic. en Ciencia de Datos.
-Hace varios años gracias a mi curiosidad conocí el mundo de los datos, lo que me fascinó desde el primer momento y desde ahí no dejé de investigar y capacitarme logrando ingresar a un mundo totalmente nuevo para mí, esto requirió un gran esfuerzo y perseverancia ya que tuve que dejar atrás muchas cosas que había logrado con mi profesión.
-Estudié en Codo a codo, en Henry y  estoy cursando la Licenciatura en Ciencia de Datos de la UNSAM. 
+Soy odontóloga y actualmente me encuentro en transición hacia el mundo de la ciencia de datos. Descubrí esta área hace algunos años y desde entonces esa curiosidad inicial se transformó en un compromiso constante por aprender y crecer.
+Me capacité en espacios como Codo a Codo y Henry, y actualmente curso la Especialización en Ciencia de Datos en ITBA. Este recorrido implicó dedicación, esfuerzo y la decisión de abrirme a nuevos desafíos, integrando mi formación previa con herramientas y metodologías del manejo de datos.
+Hoy continúo desarrollando proyectos cada vez más complejos, aplicando Python, SQL, R, Power BI, entre otras tecnologías. Estoy entusiasmada por seguir creciendo, aplicar lo aprendido y aportar valor participando en procesos de manejo, procesamiento y transformación de datos en todas sus etapas. 
   
   
 
